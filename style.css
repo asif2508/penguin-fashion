@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Poppins:wght@400;500&family=Roboto+Slab&display=swap');
 
 body{
-    background-color: rgba(68, 71, 75, 0.109);
+    /* background-color: rgba(68, 71, 75, 0.109); */
     font-family: 'Poppins', sans-serif;
 }
 
@@ -37,4 +37,9 @@ body{
 
 .third-section{
     margin-bottom: 100px;
+}
+.card:hover{
+    transform: scale(1.03);
+    transition: transform 2s;
+    overflow: hidden;
 }
