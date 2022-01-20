@@ -1,0 +1,21 @@
+.title-heading{
+    font-size: 60px;
+}
+.title-para{
+    color: #3E3E3E;
+}
+.button-color{
+    background-image:linear-gradient( #A4BC46, #6c8808 );
+    border: 1px solid #A4BC46;
+}
+
+.button-color{
+    background-image:linear-gradient( #A4BC46, #6c8808 );
+    border: 1px solid #A4BC46;
+}
+.image-cart{
+    background-color: #F1F1F1;
+}
+.price{
+    color: #FABE4C;
+}
