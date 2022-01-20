@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Poppins:wght@400;500&family=Roboto+Slab&display=swap');
+
+body{
+    background-color: rgba(68, 71, 75, 0.109);
+    font-family: 'Poppins', sans-serif;
+}
+
 .title-heading{
-    font-size: 60px;
+    font-size: 50px;
 }
 .title-para{
     color: #3E3E3E;
@@ -18,4 +25,16 @@
 }
 .price{
     color: #FABE4C;
+}
+.first-section{
+    margin-bottom: 100px;
+    margin-top: 10px;
+}
+
+.second-section{
+    margin-bottom: 100px;
+}
+
+.third-section{
+    margin-bottom: 100px;
 }
